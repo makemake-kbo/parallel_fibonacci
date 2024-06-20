@@ -1,0 +1,7 @@
+# dune init proj fib
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/makemake/.cache/dune/db
+# Workspace root:
+# /home/makemake/Documents/code/rust/parallel_fibonacci/ocaml_fib/fib
+# Auto-detected concurrency: 16
